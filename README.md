@@ -39,23 +39,17 @@ Each project includes:
 
 Improving appointment reliability to build patient trust.
 
-*Coming Soon*
-
 ---
 
 ## 🎵 Spotify Intent
 
 Designing an Intent-Based Music Discovery Layer to reduce choice overload.
 
-*Coming Soon*
-
 ---
 
 ## 🤖 Sprinklr Sentinel AI
 
 Predicting customer experience crises before they become brand crises.
-
-*Coming Soon*
 
 ---
 
